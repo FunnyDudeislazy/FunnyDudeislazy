@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @FunnyDudeislazy
-- 👀 I’m interested in Game video and etc
+- 👀 I’m interested in video games, chess, programming, drawing and etc
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me check this link : https://linktr.ee/ct_animation
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i do kinda drawing
+- ⚡ Fun fact: i sometimes do drawing
 
 <!---
 FunnyDudeislazy/FunnyDudeislazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
